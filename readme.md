@@ -1,1 +1,1 @@
-### Building a Data Analysis Project from Scratch
+### Building a Data Analysis Project from scratch
