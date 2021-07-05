@@ -1,1 +1,1 @@
-#### Adding the Business Requirements(Business Demands)
+#### Adding the Business Requirements(Business Demands/ User Stories)
